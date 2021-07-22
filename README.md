@@ -1,1 +1,1 @@
-# forkify-app
+An API based recipe app.
